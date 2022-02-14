@@ -8,5 +8,3 @@ while True:
     print('You typed ' + response + '.')
 
 sys.exit( )
-
-hello = 'this'
